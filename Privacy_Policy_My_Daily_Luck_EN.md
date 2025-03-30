@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** March 27, 2025
+**Last updated:** March 30, 2025
 
 This privacy policy explains how the Android app **“My Daily Luck”** handles user data.
 
@@ -10,12 +10,18 @@ Lokman Kerey
 Contact: aldrikkere@gmail.com
 
 ## What data is collected?
-The app stores the following information **locally on the device only**:
-- The time of the last daily check
-- The time when the next check becomes available
+The app stores the following information locally on the device only:
 
-These values are used solely to manage app functionality (e.g., showing notifications or enforcing the once-per-day limit).  
-**No personal data is collected, processed, or transmitted to any server or third party.**
+- Last Check Timestamp: The time of the last daily check.
+- Next Check Timestamp: The time when the next check becomes available.
+- User Input: The last number entered by the user.
+- Random Number: The randomly generated number used for the luck calculation.
+- Luck Score: The result of the luck check (e.g., “Good Luck”, “Average Luck”, “Bad Luck”).
+- Emoji: A visual indicator (emoji) associated with your luck.
+- Recommendation: A message providing advice based on the luck result.
+
+These data points are used solely to manage app functionality (e.g., controlling the daily check interval, sending notifications, and displaying personalized results) and to enhance the user experience.
+No personal data is collected, processed, or transmitted to any server or third party.
 
 ## Notifications
 The app uses the Android `POST_NOTIFICATIONS` permission to send **one daily notification** reminding the user that the next luck check is available.  
@@ -31,3 +37,6 @@ This app **does not use**:
 ## User rights
 Since no personal data is collected or processed, no actions like data access or deletion are required.  
 The app is fully anonymous.
+
+## Future Updates
+Any future updates to the app that involve additional data collection or changes in data processing will be promptly reflected in this privacy policy. Users are encouraged to review this policy periodically for any changes.
