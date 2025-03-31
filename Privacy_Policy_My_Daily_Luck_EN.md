@@ -34,6 +34,10 @@ This app **does not use**:
 - Cloud storage  
 - Social media integrations
 
+## Security Measures – Google Play Integrity API
+
+“My Daily Luck” utilizes the Google Play Integrity API to verify the authenticity and integrity of the app installation. This API generates a security token that confirms the app is running in an unaltered, genuine environment. No personal user data is collected, processed, or shared with third parties as part of this verification process. The information obtained is used solely for internal security purposes—to help prevent tampering and unauthorized access to the app.
+
 ## User rights
 Since no personal data is collected or processed, no actions like data access or deletion are required.  
 The app is fully anonymous.
