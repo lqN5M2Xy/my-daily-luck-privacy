@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** March 30, 2025
+**Last updated:** March 31, 2025
 
 This privacy policy explains how the Android app **“My Daily Luck”** handles user data.
 
