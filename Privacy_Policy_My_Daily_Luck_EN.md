@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** March 31, 2025
+**Last updated:** April 19, 2025
 
 This privacy policy explains how the Android app **“My Daily Luck”** handles user data.
 
@@ -34,9 +34,9 @@ This app **does not use**:
 - Cloud storage  
 - Social media integrations
 
-## Security Measures – Google Play Integrity API
-
-“My Daily Luck” utilizes the Google Play Integrity API to verify the authenticity and integrity of the app installation. This API generates a security token that confirms the app is running in an unaltered, genuine environment. No personal user data is collected, processed, or shared with third parties as part of this verification process. The information obtained is used solely for internal security purposes—to help prevent tampering and unauthorized access to the app.
+## Security Measures – Google Play Integrity API and Internet Usage
+“My Daily Luck” utilizes the Google Play Integrity API to verify the authenticity and integrity of the app installation.  
+To perform this check, the app requires the Android `INTERNET` permission, but **only** to communicate with Google Play’s Integrity servers. **No personal or other user data** is ever transmitted, collected, or stored on any remote server. All integrity verification tokens are used exclusively for internal security purposes—preventing tampering and ensuring the app runs in a genuine, unaltered environment.
 
 ## User rights
 Since no personal data is collected or processed, no actions like data access or deletion are required.  
