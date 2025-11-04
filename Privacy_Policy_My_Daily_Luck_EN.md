@@ -1,13 +1,13 @@
 # Privacy Policy
 
-**Last updated:** April 19, 2025
+**Last updated:** November 04, 2025
 
 This privacy policy explains how the Android app **“My Daily Luck”** handles user data.
 
 ## Responsible Entity
 Lokman Kerey  
 (Independent developer of this app)  
-Contact: aldrikkere@gmail.com
+Contact: ald.rik.k.ere+contact@gmail.com
 
 ## What data is collected?
 The app stores the following information locally on the device only:
